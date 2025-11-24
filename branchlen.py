@@ -1,5 +1,6 @@
 # A basic script for extracting branch length values from tree files
 # Tested and working on Python 3.6 
+# IMPORTANT! This script was written specifically for trees containing haptophyte sequences. Line 21 is where relevant taxonomic names have to be entered manually!
 
 import ete3
 from ete3 import Tree
