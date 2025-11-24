@@ -4,7 +4,6 @@
 # IMPORTANT! The script detects specific strings at the start of the headers of the sequences of interest. To search for different taxonomic names than Gertia, Kareniaceae and Haptista, change the corresponding strings in Lines 22, 24 and 26.
 
 #!/usr/bin/python3.6
-
 import ete3
 from ete3 import Tree
 import sys
