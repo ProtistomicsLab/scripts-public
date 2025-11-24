@@ -5,6 +5,10 @@ Publicly available scripts and tools, developed by us.
 
 ## **Currently in the repository:**
 
-* **[branchlen.py](https://github.com/ProtistomicsLab/scripts-public/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
+* **[branchlen.py](https://github.com/ProtistomicsLab/scripts-public/blob/main/branchlen.py)** (by Kacper Maciszewski - for extracting branch length data from Newick trees)
 
 Usage: ```python branchlen.py input_newick.tre```
+
+* **[kocur.py](https://github.com/ProtistomicsLab/scripts-public/blob/main/kocur.py)** (by Monika Wiśniewska - for finding monophyletic clades of given taxa in phylogenetic trees)
+
+Usage: ```python kocur.py input.tre```
