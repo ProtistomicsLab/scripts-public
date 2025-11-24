@@ -5,6 +5,6 @@ Publicly available scripts and tools, developed by us.
 
 ## **Currently in the repository:**
 
-* **[branchlen.py](https://github.com/ProtistomicsLab/scripts_public/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
+* **[branchlen.py](https://github.com/ProtistomicsLab/scripts-public/blob/main/branchlen.py)** (by Kacper - for extracting branch length data from Newick trees)
 
 Usage: ```python branchlen.py input_newick.tre```
